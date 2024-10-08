@@ -1,6 +1,6 @@
 # Impact Analysis of Ozempic on Obese and Hypertensive Patients
 
-This repository contains a comprehensive analysis aimed at understanding the effects of Ozempic on a specific patient group aged 40-75, diagnosed with obesity and hypertension. Due to confidentiality agreements, the actual datasets provided by Ozempic for this study are not included within this repository. However, the methodologies, code, visualizations, and narratives derived from the analysis vividly illustrate our approach and findings.
+This repository contains a comprehensive analysis aimed at understanding the effects of Ozempic on a specific patient group aged 40-75, diagnosed with obesity and hypertension. Due to confidentiality agreements, the actual datasets provided by Ozempic for this study are not included within this repository. However, the methodologies, code, visualizations, and narratives derived from the analysis illustrate our approach and findings.
 
 ## Overview:
 
